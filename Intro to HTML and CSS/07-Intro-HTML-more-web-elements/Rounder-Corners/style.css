@@ -1,0 +1,13 @@
+.box {
+  font-family: Arial;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.round {
+  border-radius: 10px;
+}

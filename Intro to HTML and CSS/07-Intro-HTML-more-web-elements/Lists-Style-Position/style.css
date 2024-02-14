@@ -1,0 +1,10 @@
+/* Don't worry about this CSS code yet. We'll explain how classes and these styles all work in a future lesson. This is just useful now in helping you see the container of the list items. :) */
+
+li {
+  background-color: lightgray;
+  padding: 5px 10px;
+}
+
+.list-inside li {
+  list-style-position: inside;
+}

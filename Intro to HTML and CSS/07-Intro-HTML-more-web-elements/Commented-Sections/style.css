@@ -1,0 +1,48 @@
+/* ------ structure  ------ */
+  
+body {
+	background-color: #fff;
+  margin: 0;
+}
+
+header {
+  height: 124px;
+  background-color: black;
+}  
+
+main {
+  min-height: 500px;
+  padding: 20px;
+}
+
+footer {
+  height: 120px;
+  background-color: black;
+  padding: 20px;
+}  
+
+.container {
+  width: 600px;
+  margin: auto;
+}
+
+/* ------    logo    ------ */
+
+header h1 {
+	padding: 70px 0 0 0px;
+  margin: 0;
+  color: #fff;
+  float: left;
+}
+
+
+
+/* ------ typography ------ */
+
+main .note {
+  color: gray;
+}
+
+footer .note {
+  color: gray;
+}
