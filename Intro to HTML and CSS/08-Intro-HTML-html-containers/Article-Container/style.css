@@ -1,0 +1,44 @@
+body {
+  min-width: 350px;
+}
+
+header {
+  background-color: gray;
+}
+
+footer {
+    background-color: darkgray;
+    margin: 200px 0 0 0;
+    padding: 20px 0;
+}
+
+h1 {
+  color: white;
+  padding: 60px 0 20px 20px;
+  margin: 0;
+  float: left;
+}
+
+main {
+  padding-left: 20px;
+}
+
+nav {
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 60px 20px 0 0;
+  width: 50%;
+  float: right;
+  color: #fff;
+}
+
+header:after, 
+nav:after {
+  content: " ";
+  display: table;
+  clear: both;
+}  
+
+footer {
+  padding-left: 20px;
+}

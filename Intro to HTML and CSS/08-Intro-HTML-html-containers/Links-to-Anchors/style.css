@@ -1,0 +1,38 @@
+body {
+  min-width: 350px;
+}
+
+header {
+  background-color: gray;
+  padding: 0 10%;
+}
+
+header h1 {
+  color: white;
+  padding: 60px 0 20px 0px;
+  margin: 0;
+}
+
+main {
+  padding: 20px 10%;
+}
+
+nav {
+  text-align: right;
+}
+
+footer {
+  background-color: darkgray;
+  margin: 140px 0 0 0;
+  padding: 10px 10%;
+}
+
+em {
+  font-style: normal;
+  font-weight: bold;
+}
+
+main em {
+  display: block;
+  text-align: right;
+}

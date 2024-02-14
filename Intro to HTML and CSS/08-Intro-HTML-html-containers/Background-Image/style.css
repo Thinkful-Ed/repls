@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Great+Primer:400i');
+
+body {
+  background-color: #fff;
+}
+
+header {
+  background-image: url("images/background-texture.jpg");
+}
+
+header h1 {
+  text-align: center;
+  color: #fff;
+  font-family: Futura;
+  font-size: 68px;
+  text-transform: uppercase;
+  margin-top: 0;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-shadow: 0px 0px 12px #000;
+}

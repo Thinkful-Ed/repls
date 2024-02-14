@@ -1,0 +1,27 @@
+body {
+  min-width: 350px;
+}
+
+header {
+  background-color: gray;
+}
+
+footer {
+    background-color: darkgray;
+    margin: 200px 0 0 0;
+    padding: 20px 0;
+}
+
+h1 {
+  color: white;
+  padding: 60px 0 20px 20px;
+  margin: 0;
+}
+
+main {
+  padding-left: 20px;
+}
+
+footer {
+  padding-left: 20px;
+}
