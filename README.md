@@ -14,6 +14,8 @@ For those interested in using Codepen, please follow the steps below:
 
 ![Codepen](codepen.gif)
 
+> Note: If you are working on an exercise with multiple HTML files you may prefer to run the exercise locally.
+
 ## Running Locally
 
 1. Click [here](https://chegg.sharepoint.com/:u:/s/ImmersionWorkshopDecks/EUdTBfxF4cxCuDODFvuNDOYBElYcFIJPkaPYNRud-wWN1A?e=zSlEMz) to download the zip file containing the REPL challenges in this repository.
