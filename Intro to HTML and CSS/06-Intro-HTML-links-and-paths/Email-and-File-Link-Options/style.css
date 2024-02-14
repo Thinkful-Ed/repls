@@ -1,0 +1,42 @@
+body {
+  font-family: arial; 
+}
+
+.wrapper {
+  width: 70%; 
+  margin: auto; 
+}
+
+hr {
+  margin: 60px 0;
+}
+
+.code-block {
+ background-color: #000;
+ color: #fff;
+ font-weight: bold;
+ font-size: 110%;
+ padding: 20px;
+ margin: 20px 0;
+ border-radius: 6px;
+}
+
+/* Typical links */
+a {
+  font-family: arial;
+  text-decoration: underline;
+  color: blue;
+}
+
+/* Email Links */
+a[href^="mailto:"] {
+    text-decoration: none;
+}
+
+
+/* Telephone Links */ 
+a[href^="tel:"] {
+    color: green;
+}
+
+
