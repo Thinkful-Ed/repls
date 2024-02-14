@@ -9,7 +9,7 @@ Occasionally, you might encounter situations where the REPLs in the lessons are 
 For those interested in using Codepen, please follow the steps below:
 
 1. Navigate to [https://codepen.io/pen](https://codepen.io/pen).
-2. Copy and paste the code you wish to work on into the editor.
+2. Copy and paste the code you wish to work on into the editor. The exercises are located in their corresponding module and lesson folder in this Github repository.
 3. If you're working with JavaScript files, simply open the "Console" tab to view outputs and debug.
 
 ![Codepen](codepen.gif)
