@@ -4,6 +4,8 @@ This repository contains the REPL code examples for the Software Engineering (SE
 
 Occasionally, you might encounter situations where the REPLs in the lessons are unavailable. This could be due to an outage, maintenance on Replit's end, or limitations like the 600-minute time cap for usage. If you reach the time limit or can't access the REPLs, there are alternatives: you can download the files to work on the exercises locally on your computer, or you can opt for an alternative online editor, such as Codepen.
 
+Note: The "Welcome to Web Development" module exercises are inside the "Intro to HTML and CSS" folder.
+
 ## Running Locally
 
 1. Click [here](https://chegg.sharepoint.com/:u:/s/ImmersionWorkshopDecks/EUdTBfxF4cxCuDODFvuNDOYBElYcFIJPkaPYNRud-wWN1A?e=zSlEMz) to download the zip file containing the REPL challenges in this repository.
