@@ -2,19 +2,7 @@
 
 This repository contains the REPL code examples for the Software Engineering (SE) program.
 
-Occasionally, you might encounter situations where the REPLs in the lessons are unavailable. This could be due to an outage or maintenance on Replit's end. Typically, Replit resolves such issues promptly, often within an hour or two. For students who prefer not to wait, there are alternatives: you can download the files to work on the exercises locally on your computer, or you can opt for an alternative online editor, such as Codepen.
-
-## Using Codepen
-
-For those interested in using Codepen, please follow the steps below:
-
-1. Navigate to [https://codepen.io/pen](https://codepen.io/pen).
-2. Copy and paste the code you wish to work on into the editor. The exercises are located in their corresponding module and lesson folder in this Github repository.
-3. If you're working with JavaScript files, simply open the "Console" tab to view outputs and debug.
-
-![Codepen](codepen.gif)
-
-> Note: If you are working on an exercise with multiple HTML files you may prefer to run the exercise locally.
+Occasionally, you might encounter situations where the REPLs in the lessons are unavailable. This could be due to an outage, maintenance on Replit's end, or limitations like the 600-minute time cap for usage. If you reach the time limit or can't access the REPLs, there are alternatives: you can download the files to work on the exercises locally on your computer, or you can opt for an alternative online editor, such as Codepen.
 
 ## Running Locally
 
@@ -27,3 +15,14 @@ For those interested in using Codepen, please follow the steps below:
 
 ![Run Locally](runlocally.gif)
 
+## Using Codepen
+
+For those interested in using Codepen, please follow the steps below:
+
+1. Navigate to [https://codepen.io/pen](https://codepen.io/pen).
+2. Copy and paste the code you wish to work on into the editor. The exercises are located in their corresponding module and lesson folder in this Github repository.
+3. If you're working with JavaScript files, simply open the "Console" tab to view outputs and debug.
+
+![Codepen](codepen.gif)
+
+> Note: If you are working on an exercise with multiple HTML files you may prefer to run the exercise locally.
